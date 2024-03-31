@@ -15,7 +15,7 @@
     SCREENSHOTS
     
 
-
+DESKTOP DESIGN
 
 ![FINISHED DESIGN](https://github.com/Tksmith-guru/QR-code-Component-/assets/122574849/f4b67bf6-3980-4505-90de-f2085d8d618c)
 
