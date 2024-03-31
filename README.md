@@ -13,11 +13,11 @@
            ° Author
 
     SCREENSHOTS
+    
 
 
 
-
-
+![FINISHED DESIGN](https://github.com/Tksmith-guru/QR-code-Component-/assets/122574849/f4b67bf6-3980-4505-90de-f2085d8d618c)
 
     LINKS
  ° https://tksmith-guru.github.io/Social-links-Profile/
